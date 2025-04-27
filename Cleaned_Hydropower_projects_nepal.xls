@@ -1,0 +1,71 @@
+_id,S.N.,Developer,Projects,Location,Capacity_MW,PPA Date,Commercial Operation Date,Project Age,Completion time,ppa_year
+1,1,Himal Power Ltd.,Khimti Khola,Dolakha,60.0,2052-10-01,2057-03-27,29.0,4.49,2052
+2,2,Bhotekoshi Power Company Ltd.,Bhotekoshi Khola,Sindhupalchowk,45.0,2053-04-06,2057-10-11,29.0,4.52,2053
+3,3,Syange Electricity Company Limited,Syange Khola,Lamjung,0.183,2058-10-03,2058-10-10,23.0,0.02,2058
+4,4,National Hydro Power Company Ltd.,Indrawati - III,Sindhupalchowk,7.5,2054-08-15,2059-06-21,27.0,4.85,2054
+5,5,Chilime Hydro Power Company Ltd.,Chilime,Rasuwa,22.1,2054-03-11,2060-05-08,28.0,6.17,2054
+7,7,Butwal Power Company Ltd.,Andhi Khola,Syangza,9.4,2058-03-29,2071-12-22,24.0,13.74,2058
+8,8,Arun Valley Hydropower Development Co. (P.) Ltd.,Piluwa Khola Small,Sankhuwasabha,3.0,2056-10-09,2060-06-01,25.0,3.65,2056
+9,9,Rairang Hydro Power Development Co. (P) Ltd.,Rairang Khola,Dhading,0.5,2059-08-27,2061-08-01,22.0,1.93,2059
+10,10,Sanima Hydropower (Pvt.) Ltd.,Sunkoshi Small,Sindhupalchowk,2.5,2058-07-28,2061-12-11,23.0,3.36,2058
+11,11,Alliance Power Nepal Pvt.Ltd.,Chaku Khola,Sindhupalchowk,3.0,2056-11-03,2062-03-01,25.0,5.33,2056
+12,12,Khudi Hydropower Ltd.,Khudi Khola,Lamjung,4.0,2058-03-04,2063-09-15,24.0,5.54,2058
+13,13,Unique Hydel Co. Pvt.Ltd.,Baramchi Khola,Sindhupalchowk,4.2,2058-12-14,2063-09-27,23.0,4.8,2058
+14,14,Thoppal Khola Hydro Power Co. Pvt. Ltd.,Thoppal Khola,Dhading,1.65,2059-11-23,2064-07-13,22.0,4.65,2059
+15,15,Gautam Buddha Hydropower (Pvt.) Ltd.,Sisne Khola Small,Palpa,0.75,2061-04-29,2064-06-01,21.0,3.1,2061
+16,16,Kathmandu Small Hydropower Systems Pvt. Ltd.,Sali Nadi,Kathmandu,0.25,2062-04-24,2064-08-01,20.0,2.28,2062
+17,17,Khoranga Khola Hydropower Dev. Co. Pvt. Ltd.,Pheme Khola,Panchthar,0.995,2057-12-31,2064-08-05,24.0,6.61,2057
+18,18,Unified Hydropower (P.) Ltd.,Pati Khola Small,Parbat,0.996,2062-10-28,2065-10-27,19.0,3.0,2062
+19,19,Task Hydropower Company (P.) Ltd.,Seti-II,Kaski,0.979,2063-06-08,2065-11-14,19.0,2.42,2063
+20,20,Ridi Hydropower Development Co. (P.) Ltd.,Ridi Khola,Gulmi,2.4,2063-05-08,2066-07-10,19.0,3.18,2063
+21,21,Centre for Power Dev. And Services (P.) Ltd.,Upper Hadi Khola,Sindhupalchowk,0.991,2064-04-07,2066-07-22,18.0,2.3,2064
+22,22,Gandaki Hydro Power Co. Pvt. Ltd.,Mardi Khola,Kaski,4.8,2060-07-07,2066-10-08,22.0,6.25,2060
+23,23,Himal Dolkha Hydropower  Company  Ltd.,Mai Khola,Illam,4.5,2063-11-19,2067-10-14,18.0,3.91,2063
+24,24,Baneswor Hydropower Pvt. Ltd.,Lower Piluwa Small,Sankhuwasabha,0.99,2064-07-21,2068-04-01,17.0,3.69,2064
+25,25,Barun Hydropower Development Co. (P.) Ltd.,Hewa Khola,Sankhuwasabha,4.455,2061-04-02,2068-04-17,21.0,7.05,2061
+26,26,Bhagawati Hydropower Development Co. (P.) Ltd.,Bijayapur-1,Kaski,4.41,2066-03-30,2069-05-04,16.0,3.1,2066
+27,27,Kathmandu Upatyaka Khanepani bewasthapan Board,Solar,Lalitpur,0.6804,2069-06-12,2069-07-15,13.0,0.09,2069
+28,28,Nyadi Group (P.) Ltd.,Siuri Khola,Lamjung,4.95,2064-04-17,2069-07-30,18.0,5.29,2064
+29,29,United Modi Hydropwer Pvt. Ltd.,Lower Modi 1,Parbat,10.0,2065-10-20,2069-08-10,16.0,3.81,2065
+30,30,Synergy Power Development (P.) Ltd.,Sipring Khola,Dolakha,9.658,2065-10-20,2069-10-03,16.0,3.96,2065
+31,31,Laughing Buddha Power Nepal (P.) Ltd.,Middle Chaku,Sindhupalchowk,1.8,2066-11-03,2069-11-15,15.0,3.03,2066
+32,32,Aadishakti Power Dev. Company (P.) Ltd.,Tadi Khola (Thaprek),Nuwakot,5.0,2061-12-15,2069-12-14,20.0,8.0,2061
+33,33,Ankhu Khola Jal Bidhyut Co. (P.) Ltd.,Ankhu Khola - 1,Dhading,8.4,2066-02-22,2070-05-05,16.0,4.21,2066
+34,34,Nepal Hydro Developer Pvt. Ltd.,Charanawati  Khola,Dolakha,3.52,2067-01-13,2070-02-24,15.0,3.12,2067
+35,35,Laughing Buddha Power Nepal Pvt. Ltd.,Lower Chaku Khola,Sindhupalchowk,1.8,2063-07-02,2070-04-24,19.0,6.81,2063
+36,36,Bhairabkunda Hydropower Pvt. Ltd.,Bhairab Kunda,Sindhupalchowk,3.0,2065-08-02,2071-02-22,16.0,5.55,2065
+37,37,Radhi Bidyut Company Ltd.,Radhi Khola,Lamjung,4.4,2066-10-18,2071-02-31,15.0,4.37,2066
+38,38,Pashupati Environmental Eng. Power Co. Pvt. Ltd.,Chhote Khola,Gorkha,0.993,2067-11-09,2071-03-09,14.0,3.34,2067
+39,39,Mailung Khola Hydro Power Company (P.) Ltd.,Mailung Khola,Rasuwa,5.0,2058-04-09,2071-03-19,24.0,12.95,2058
+40,40,Joshi Hydropower Development Company Limited,Upper Puwa -1,Illam,3.0,2066-01-23,2071-10-01,16.0,5.7,2066
+41,41,Sanima Mai Hydropower Limited,Mai Khola,Illam,22.0,2067-01-08,2071-10-14,15.0,4.78,2067
+42,42,Bojini Company Private Limited,Jiri Khola Small,Dolakha,2.2,2065-10-23,2071-11-01,16.0,6.02,2065
+43,43,Ruru Hydropower Project (P) Ltd.,Upper Hugdi Khola,Gulmi,5.0,2066-04-04,2071-12-09,16.0,5.68,2066
+44,44,Prime Hydropower Co. Pvt. Ltd.,Belkhu,Dhading,0.518,2064-04-04,2071-12-30,18.0,7.74,2064
+45,45,Api Power Company Pvt. Ltd.,Naugadh gad Khola,Darchula,8.5,2067-01-19,2072-05-02,15.0,5.3,2067
+46,46,Kutheli Bukhari Small Hydropower (P).Ltd,Suspa Bukhari,Dolakha,0.998,2069-04-32,2072-06-03,13.0,3.1,2069
+47,47,Sanima Mai Hydropower Ltd.,Mai Cascade,Illam,7.0,2069-10-12,2072-10-29,12.0,3.05,2069
+48,48,Chhyangdi Hydropower Limited,Chhandi,Lamjung,2.0,2068-12-23,2072-12-13,13.0,3.98,2068
+49,49,"Panchakanya Mai Hydropower Ltd. (Previously Mai Valley and
+prior to that East Nepal)",Upper Mai Khola,Illam,9.98,2061-12-19,2073-03-09,20.0,11.24,2061
+50,50,Sayapatri Hydropower Private Limited,Daram Khola A,Baglung,2.5,2068-12-19,2073-03-12,13.0,4.24,2068
+51,51,Electro-com and Research Centre Pvt. Ltd.,Jhyadi Khola,Sindhupalchowk,2.0,2067-01-30,2073-05-31,15.0,6.35,2067
+52,52,Khani Khola Hydropower Company Pvt. Ltd.,Tungun-Thosne,Lalitpur,4.36,2069-04-05,2073-07-09,13.0,4.27,2069
+53,53,Daraudi Kalika Hydro Pvt. Ltd.,Daraudi Khola A,Gorkha,6.0,2068-05-19,2073-08-13,14.0,5.24,2068
+54,54,Khani Khola Hydropower Company Pvt. Ltd.,Khani Khola,Lalitpur,2.0,2069-04-05,2073-08-20,13.0,4.38,2069
+55,55,Sapsu Kalika Hydropower Co. Pvt. Ltd.,Miya Khola,Khotang,0.996,2069-08-10,2073-09-03,12.0,4.07,2069
+56,56,Sinohydro-Sagarmatha Power Company (P) Ltd.,"Upper Marsyangdi ""A""",Lamjung,50.0,2067-09-14,2073-09-17,14.0,6.01,2067
+57,57,Madi Power Pvt. Ltd.,Upper Madi,Kaski,25.0,2066-05-21,2073-09-25,16.0,7.35,2066
+58,58,Panchthar Power Company Pvt. Ltd.,Hewa Khola A,Panchthar,14.9,2068-05-30,2073-10-22,14.0,5.39,2068
+59,59,Sanvi Energy pvt. Ltd.,Jogmai,Illam,7.6,2069-08-07,2074-01-18,12.0,4.44,2069
+60,60,Bhugol Energy Dev Compay (P). Ltd,Dwari Khola,Dailekha,3.75,2069-12-30,2074-01-23,12.0,4.07,2069
+61,61,Mai Valley Hydropower Private Limited,Upper Mai C,Illam,5.1,2068-12-23,2074-04-09,13.0,5.3,2068
+62,62,Dronanchal Hydropower Co.Pvt.Ltd,Dhunge-Jiri,Dolakha,0.6,2068-09-25,2074-06-01,13.0,5.69,2068
+63,63,Dibyaswari Hydropower Limited,Sabha Khola,Sankhuwasabha,4.0,2068-11-17,2074-06-02,13.0,5.56,2068
+64,64,Puwa Khola-1 Hydropower P. Ltd.,Puwa Khola -1,Illam,4.0,2070-10-09,2074-06-23,11.0,3.71,2070
+65,65,Shibani Hydropower Co. Pvt. Ltd.,Phawa Khola,Taplejung,4.95,2063-12-01,2074-07-14,18.0,10.64,2063
+66,66,Mount Kailash Energy Pvt. Ltd.,Thapa Khola,Myagdi,13.6,2067-10-11,2074-08-22,14.0,6.87,2067
+67,67,Mandakini Hydropower Limited,Sardi Khola,Kaski,4.0,2068-11-11,2074-08-23,13.0,5.8,2068
+68,68,Garjang Upatyaka Hydropower (P.) Ltd.,Chake Khola,Ramechhap,2.83,2065-11-06,2074-08-28,16.0,8.83,2065
+69,69,Union Hydropower Pvt Ltd.,Midim Karapu,Lamjung,3.0,2069-10-28,2074-10-15,12.0,4.97,2069
+70,70,Syauri Bhumey Microhydro Project,Syauri Bhumey,Nuwakot,0.023,2072-11-16,2074-10-18,9.0,1.93,2072
